@@ -47,3 +47,7 @@ CakeBake is a comprehensive cloud-based software designed specifically for baker
 - **Customer Satisfaction:** Enhance the customer experience with smooth online ordering, personalized promotions, and timely deliveries.
 
 CakeBake is the ultimate solution for modern bakeries, combining all the tools you need to succeed in a single, easy-to-use platform.
+
+## Contact
+
+For inquiries, please reach out to us at [ajeetlab@gmail.com](mailto:your-email@example.com).
