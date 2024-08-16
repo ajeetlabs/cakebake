@@ -5,7 +5,7 @@
         </div>
         <ul class="mt-6 space-y-1">
             <li>
-                <a href=""
+                <a href="{{ route('dashboard') }}"
                     class="text-gray-700 font-medium h-10 inline-flex gap-2 items-center rounded-md transition-all w-full px-2 hover:bg-gray-50">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"
                         class="size-5 text-blue-500">
@@ -30,7 +30,7 @@
                 </a>
             </li>
             <li>
-                <a href=""
+                <a href="{{ route('catalogue.index') }}"
                     class="text-gray-700 font-medium h-10 items-center inline-flex gap-2 rounded-md transition-all w-full px-2 hover:bg-gray-50">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"
                         class="size-5 text-blue-500">
